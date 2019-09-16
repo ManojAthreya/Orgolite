@@ -478,6 +478,10 @@ img {
 
 .classycloseIcon .cross-wrap span {
   background: #ffffff; }
+.about-text
+{
+  text-align: justify;
+}
 
 /* :: 5.0 Hero Slides Area */
 .hero-slides {
